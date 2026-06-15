@@ -11,10 +11,9 @@ created: 2026-06-15
 
 # Raft Paper
 
-## One-line summary
+
 
 ## Raw highlights & reactions
-<!-- Messy is fine. This is the landing zone, not a finished note. -->
 
 ## Concepts extracted
 - [[ ]]
