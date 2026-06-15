@@ -20,3 +20,8 @@ created: 2026-06-15
 - 
 
 ## Log
+
+problems: 
+- traversing the flux dependency graph -> recursive function
+- each ks in a ks chain will emit a fail condition -> deduplicate window + lastTimeSeen field + thread safe counter 
+- 
