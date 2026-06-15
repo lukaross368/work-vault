@@ -1,0 +1,10 @@
+filters:
+  and:
+    - type == "pattern"
+views:
+  - type: table
+    name: Patterns
+    order:
+      - file.name
+      - lang
+      - topic

@@ -330,16 +330,16 @@ Build a **Dashboard.md** in `Bases/` that embeds Seeds first (your backlog), the
 ## 9. Setup checklist (one session)
 
 - [x] Enable core plugins: Properties, Bases, Daily notes
-- [ ] Install Templater, QuickAdd, Obsidian Git
+- [x] Install Templater, QuickAdd, Obsidian Git
 - [x] Create folders: Inbox, Notes, Sources, MOCs, Projects, Bases, Templates, Attachments
 - [x] Add the 5 templates to `Templates/`
 - [x] Point Templater at the `Templates/` folder (Settings → Templater → Template folder)
-- [ ] Create QuickAdd "New concept note" macro → template into `Notes/`, bind a hotkey
-- [ ] Repeat QuickAdd for pattern / source / project
-- [ ] Create the 3 Bases (+ comprehension-gaps view)
-- [ ] Build `Bases/Dashboard.md`, embed the bases, set as home note
-- [ ] Install Web Clipper browser extension
-- [ ] Enable Obsidian Git auto-commit (e.g. every 10 min) and connect a private repo
+- [x] Create QuickAdd "New concept note" macro → template into `Notes/`, bind a hotkey
+- [x] Repeat QuickAdd for pattern / source / project
+- [x] Create the 3 Bases (+ comprehension-gaps view)
+- [x] Build `Bases/Dashboard.md`, embed the bases, set as home note
+- [x] Install Web Clipper browser extension
+- [x] Enable Obsidian Git auto-commit (e.g. every 10 min) and connect a private repo
 - [ ] Seed the vault (see §10) so it isn't empty
 
 ---

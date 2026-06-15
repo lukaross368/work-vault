@@ -1,9 +1,9 @@
 ---
 type: source
-kind: paper          # paper | lecture | book
-authors: 
-year: 
-url: 
+kind: paper
+authors: Jeffrey Dean and Sanjay Ghemawat
+year: "2004"
+url: https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf
 status: reading
 tags: []
 created: 2026-06-15
@@ -11,10 +11,9 @@ created: 2026-06-15
 
 # MapReduce Paper
 
-## One-line summary
 
 ## Raw highlights & reactions
-<!-- Messy is fine. This is the landing zone, not a finished note. -->
+
 
 ## Concepts extracted
 - [[ ]]

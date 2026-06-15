@@ -1,0 +1,13 @@
+filters:
+  and:
+    - 'type == "concept"'
+    - 'project_surface != ""'
+views:
+  - type: table
+    name: Project seeds
+    order:
+      - file.name
+      - project_surface
+      - topic
+      - source
+

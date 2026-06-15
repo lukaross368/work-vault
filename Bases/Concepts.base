@@ -1,0 +1,20 @@
+filters:
+  and:
+    - type == "concept"
+views:
+  - type: table
+    name: All concepts
+    order:
+      - file.name
+      - topic
+      - status
+      - project_surface
+  - type: table
+    name: Not yet written up
+    filters:
+      and:
+        - status != "published"
+    order:
+      - file.name
+      - topic
+      - status
