@@ -16,6 +16,7 @@ created: 2026-06-15
 
 
 ## Concepts extracted
+
 - [[Parallel Computation]]
 - [[Fault Tolerance]]
-- 
+- [[Batch Data Processing]]
